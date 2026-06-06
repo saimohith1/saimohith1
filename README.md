@@ -1,3 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Sai%20Mohith&fontSize=60&fontColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analytics+%E2%80%A2+Machine+Learning+%E2%80%A2+Energy+Systems+%E2%80%A2+Open+Source)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=1000&center=true&vCenter=true&width=1000&lines=Data+Analyst;Machine+Learning+Engineer;Open+Source+Contributor;Energy+Analytics+Enthusiast"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=saimohith1&show_icons=true"/>
