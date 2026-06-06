@@ -7,9 +7,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/saimohith1/saimohith1/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-## Featured Projects
-
-<a href="https://github.com/saimohith1/EV-Battery-Analytics-SQL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saimohith1&repo=EV-Battery-Analytics-SQL" />
-</a>
