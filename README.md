@@ -1,4 +1,4 @@
-# Hi, I'm Sai
+# Hi, I'm Sai Mohith
 
 I'm an EEE graduate from JNTUH and currently pursuing a BS in Data Science at IIT Madras.
 
