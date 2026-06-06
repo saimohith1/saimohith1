@@ -2,5 +2,4 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=1000&center=true&vCenter=true&width=1000&lines=Data+Analyst;Machine+Learning+Engineer;Open+Source+Contributor;Energy+Analytics+Enthusiast"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=saimohith1&show_icons=true"/>
+![Sai Mohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=saimohith1&show_icons=true)
