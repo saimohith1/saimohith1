@@ -1,221 +1,55 @@
-<div align="center">
+# Hi, I'm Sai
 
-# Sai Mohith
+I'm an EEE graduate from JNTUH and currently pursuing a BS in Data Science at IIT Madras.
 
-### Building at the intersection of Data, AI, and Energy Systems
+Most of my work sits somewhere between data, machine learning, and energy systems. I enjoy building projects that start with messy datasets and end with something useful.
 
-<p>
-Data Analytics • Machine Learning • Open Source • Energy Technology
-</p>
+Right now I'm spending my time on:
 
-<p>
-<a href="https://linkedin.com/in/sai-mohith-bingi">LinkedIn</a> •
-<a href="mailto:saimohithbingi@gmail.com">Email</a> •
-<a href="https://github.com/saimohith1">GitHub</a>
-</p>
+* Open source contributions
+* Machine learning projects
+* Data analytics and visualization
+* Energy-tech applications
+* Recommendation systems
 
-</div>
+## Things I've Built
 
----
+### EV Battery Health Analytics
 
-## About Me
+Analyzed EV telemetry data to track battery health, detect charging abuse, and identify risk patterns using PostgreSQL.
 
-I'm Sai, a Data Science student at IIT Madras and an Electrical & Electronics Engineering graduate from JNTUH.
+### Solar Power Plant Dashboard
 
-I enjoy transforming raw data into systems that make decisions, uncover patterns, and solve real-world problems.
+Built a Power BI dashboard for monitoring inverter performance, efficiency losses, and plant-level KPIs.
 
-My interests currently revolve around:
+### Toxic Comment Classification
 
-* Machine Learning
-* Data Analytics
-* Business Intelligence
-* Energy Systems
-* Open Source Software
+Trained NLP models on 150k+ comments using TF-IDF, XGBoost, and LightGBM to automate moderation tasks.
+
+### Solar PV Fault Detection
+
+Worked on detecting performance degradation and estimating power loss in solar PV systems using data-driven methods.
+
+## Currently Learning
+
 * Data Engineering
+* MLOps
+* Distributed Systems
+* Open Source Development
 
-I believe the best way to learn is to build.
+## A Few Things About Me
 
----
+* Kaggle competitor (Top 1.5% in Housing Prices)
+* Electrical Lead for a Formula Bharat EV team
+* Interested in energy, technology, economics, and public policy
+* Usually building something or breaking something
 
-## Current Focus
+## Tech I Use
 
-```text
-Contributing to Open Source
-Building End-to-End ML Applications
-Learning Data Engineering
-Exploring MLOps Workflows
-Developing Energy Analytics Solutions
-```
+Python • SQL • PostgreSQL • Power BI • Git • Docker • Scikit-Learn • XGBoost • LightGBM
 
----
+## Find Me Here
 
-## Tech Arsenal
+LinkedIn: linkedin.com/in/sai-mohith-bingi
 
-### Languages
-
-```python
-Python
-SQL
-```
-
-### Analytics
-
-```text
-Power BI
-Excel
-Power Query
-DAX
-OpenRefine
-```
-
-### Machine Learning
-
-```text
-Scikit-Learn
-XGBoost
-LightGBM
-TF-IDF
-Feature Engineering
-Model Evaluation
-```
-
-### Databases
-
-```text
-PostgreSQL
-Database Design
-Query Optimization
-Triggers
-CTEs
-```
-
-### Tools
-
-```text
-Git
-GitHub
-Docker
-Linux
-```
-
----
-
-## Featured Work
-
-### EV Battery Health & Charging Abuse Analytics
-
-A telemetry analytics platform designed to monitor battery health, detect abnormal charging behaviour, and estimate battery abuse risk.
-
-Key achievements:
-
-* Processed 10,000+ telemetry records
-* Built anomaly detection pipelines
-* Developed Battery Abuse Score
-* Improved analytical performance by 30%
-
----
-
-### Solar Power Plant Performance Dashboard
-
-A Power BI solution for monitoring inverter-level generation, efficiency, and operational anomalies.
-
-Highlights:
-
-* Automated performance monitoring
-* Advanced DAX calculations
-* Performance ratio tracking
-* Actionable maintenance insights
-
----
-
-### Multi-Class Comment Classification System
-
-Machine learning system for automated content moderation using NLP and metadata-driven features.
-
-Highlights:
-
-* 150,000+ training samples
-* TF-IDF feature extraction
-* XGBoost + LightGBM ensemble
-* Macro F1 ≈ 0.78
-
----
-
-### Solar PV Fault Detection & Performance Analytics
-
-Analytics framework for identifying PV faults, estimating power loss, and improving maintenance decisions.
-
----
-
-## Open Source Journey
-
-My goal is simple:
-
-> Contribute meaningful code to projects used by thousands of people.
-
-Currently exploring contributions in:
-
-* Analytics Platforms
-* Data Visualization Tools
-* Machine Learning Infrastructure
-* Developer Productivity Tools
-
----
-
-## Achievements
-
-🏆 Top 1.5% in Kaggle Housing Prices Competition
-
-🏎️ Electrical Lead — Formula Bharat EV Team
-
-🥈 Joint 2nd Place — Eureka 2025 Pitching Competition
-
-📈 4th Place among 280 Teams — IITM Saavan Money Matrix
-
-💡 Smart India Hackathon Participant
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saimohith1&show_icons=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimohith1&layout=compact" />
-
-</div>
-
----
-
-## Philosophy
-
-```text
-Build.
-Measure.
-Learn.
-Improve.
-Repeat.
-```
-
----
-
-## Let's Connect
-
-If you're interested in:
-
-* Data Analytics
-* Machine Learning
-* Open Source
-* Energy Technology
-* Interesting Ideas
-
-Feel free to reach out.
-
----
-
-<div align="center">
-
-"Turning data into decisions and ideas into systems."
-
-</div>
+Email: [saimohithbingi@gmail.com](mailto:saimohithbingi@gmail.com)
