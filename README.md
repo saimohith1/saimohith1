@@ -4,4 +4,8 @@
 
 <img src="https://streak-stats.demolab.com?user=saimohith1"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saimohith1&repo=EV-Battery-Analytics-SQL)]
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saimohith1/saimohith1/output/github-contribution-grid-snake-dark.svg" />
+</p>
